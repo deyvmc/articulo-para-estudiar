@@ -1,7 +1,6 @@
 body{
     color: rgb(68, 68, 68);
     font-family: sans-serif, Helvetica, sans-serif;
-    font-family: dm-sans;
     background-color: rgb(247, 246, 242);
     text-align: center;
 }
@@ -12,6 +11,7 @@ body{
 p{
     font-weight: 600;
     font-size: large;
+    font-family: open-sans;
 }
 .textos-proyectos{
     display: flex;
